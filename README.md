@@ -1,6 +1,6 @@
 # Infinite Random Images with **Infinite Scroll** | **HTML** & **CSS** & **Vanilla JavaScript**
 
-> Infinite scrolling is so powerful for social media apps, any news websites, article websites like Medium etc. Many apps like Instagram, Facebook include this perfect UX prop. and it makes everything easier, saves our time from refreshing. So I used infinite scrolling for fetching infinite images from Unsplash. It fetches 20 images for every fetching session.
+> Infinite scrolling is so powerful for social media apps, any news websites, article websites etc. Many apps like Instagram, Facebook include this perfect UX prop. and it makes everything easier, saves our time from refreshing. So I used infinite scrolling for fetching infinite images from Unsplash. It fetches 20 images for every fetching session.
 
 ---
 
